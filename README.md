@@ -1,6 +1,6 @@
 # Hi, I'm *<Oh no... 4:cookie:4>*
 
-I am a freelance developer in Java and Flutter. In my spare time, I develop packages for Flutter.
+I am a freelance developer in Java and Flutter. In my spare time, I develop packages for Flutter. That's all...
 
 If for some reason you wanted to write to me (although it's hard for me to imagine it), write here: nuuulix@gmail.com
 
